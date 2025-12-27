@@ -9,7 +9,7 @@
 
 **sendAll** is a native iOS application sendAll allows you to send mass texts *individually*.
 
-*Unfortunately* Apple blocks any applications from altering messages behavior at an OS level so there is no way to send mass messaging at once. 
+*Unfortunately* Apple blocks any applications from altering messages behavior at an OS level so there is no way to send mass texts at once. 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/76afea44-4967-465e-b980-6ef40fd38b1a" width="220" />
   <img src="https://github.com/user-attachments/assets/ba18b13a-0320-41ec-8862-a51664547a8b" width="220" />
