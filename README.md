@@ -11,8 +11,6 @@
 
 *Unfortunately* Apple blocks any applications from altering messages behavior at an OS level so there is no way to send mass messaging at once. 
 
-Built with a stunning **Liquid Glass** design system, it offers a premium, modern aesthetic without compromising on privacy or functionality.
-
 ## ✨ Features
 
 - **Individual Messaging**: Review and send messages to each recipient individually. No group chats.
