@@ -7,7 +7,7 @@
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-Latest-blue.svg)
 
-**sendAll** is a native iOS application sendAll allows you to send mass texts individually.
+**sendAll** is a native iOS application sendAll allows you to send mass texts *individually*.
 
 *Unfortunately* Apple blocks any applications from altering messages behavior at an OS level so there is no way to send mass messaging at once. 
 <p align="center">
