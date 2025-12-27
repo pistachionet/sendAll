@@ -7,7 +7,9 @@
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-Latest-blue.svg)
 
-**sendAll** is a native iOS application designed to bring the personal touch back to mass communication. Instead of impersonal group chats or generic broadcasts, sendAll allows you to compose a single message and review it one-by-one for each recipient, giving you the power to customize every text before it sends.
+**sendAll** is a native iOS application sendAll allows you to send mass texts individually.
+
+*Unfortunately* Apple blocks any applications from altering messages behavior at an OS level so there is no way to send mass messaging at once. 
 
 Built with a stunning **Liquid Glass** design system, it offers a premium, modern aesthetic without compromising on privacy or functionality.
 
