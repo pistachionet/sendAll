@@ -7,14 +7,9 @@
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-Latest-blue.svg)
 
-**sendAll** is a native iOS application sendAll allows you to send mass texts *individually*.
+**sendAll** is a native iOS application designed to bring the personal touch back to mass communication. Instead of impersonal group chats or generic broadcasts, sendAll allows you to compose a single message and review it one-by-one for each recipient, giving you the power to customize every text before it sends.
 
-*Unfortunately* Apple blocks any applications from altering messages behavior at an OS level so there is no way to send mass texts at once. 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/76afea44-4967-465e-b980-6ef40fd38b1a" width="220" />
-  <img src="https://github.com/user-attachments/assets/ba18b13a-0320-41ec-8862-a51664547a8b" width="220" />
-  <img src="https://github.com/user-attachments/assets/53ced0f7-ca7e-4860-bc89-b8e397ab9288" width="220" />
-</p>
+Built with a stunning **Liquid Glass** design system, it offers a premium, modern aesthetic without compromising on privacy or functionality.
 
 ## ✨ Features
 
@@ -51,6 +46,14 @@
    - Tap **Skip** if you changed your mind for one person.
    - Tap **Send** to launch the native message sheet.
 4. **Done**: Get a summary of how many messages were sent.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/76afea44-4967-465e-b980-6ef40fd38b1a" width="220" />
+  &nbsp;&nbsp;&nbsp; <!-- Spacer -->
+  <img src="https://github.com/user-attachments/assets/ba18b13a-0320-41ec-8862-a51664547a8b" width="220" />
+  &nbsp;&nbsp;&nbsp; <!-- Spacer -->
+  <img src="https://github.com/user-attachments/assets/53ced0f7-ca7e-4860-bc89-b8e397ab9288" width="220" />
+</p>
 
 ## 📄 License
 
