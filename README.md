@@ -11,6 +11,24 @@
 
 Built with a stunning **Liquid Glass** design system, it offers a premium, modern aesthetic without compromising on privacy or functionality.
 
+## 📸 Usage
+
+1. **Add Recipients**: Choose from your contacts or enter numbers manually.
+2. **Compose**: Draft your core message.
+3. **Review**: Swipe through your recipients.
+   - Tap the message to **edit** it for that specific person.
+   - Tap **Skip** if you changed your mind for one person.
+   - Tap **Send** to launch the native message sheet.
+4. **Done**: Get a summary of how many messages were sent.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/76afea44-4967-465e-b980-6ef40fd38b1a" width="220" />
+  &nbsp;&nbsp;&nbsp; <!-- Spacer -->
+  <img src="https://github.com/user-attachments/assets/ba18b13a-0320-41ec-8862-a51664547a8b" width="220" />
+  &nbsp;&nbsp;&nbsp; <!-- Spacer -->
+  <img src="https://github.com/user-attachments/assets/53ced0f7-ca7e-4860-bc89-b8e397ab9288" width="220" />
+</p>
+
 ## ✨ Features
 
 - **Individual Messaging**: Review and send messages to each recipient individually. No group chats.
@@ -37,23 +55,7 @@ Built with a stunning **Liquid Glass** design system, it offers a premium, moder
   - `Contacts`: For secure address book access.
   - `UIKit`: For haptic feedback and view controller integrations.
 
-## 📸 Usage
 
-1. **Add Recipients**: Choose from your contacts or enter numbers manually.
-2. **Compose**: Draft your core message.
-3. **Review**: Swipe through your recipients.
-   - Tap the message to **edit** it for that specific person.
-   - Tap **Skip** if you changed your mind for one person.
-   - Tap **Send** to launch the native message sheet.
-4. **Done**: Get a summary of how many messages were sent.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/76afea44-4967-465e-b980-6ef40fd38b1a" width="220" />
-  &nbsp;&nbsp;&nbsp; <!-- Spacer -->
-  <img src="https://github.com/user-attachments/assets/ba18b13a-0320-41ec-8862-a51664547a8b" width="220" />
-  &nbsp;&nbsp;&nbsp; <!-- Spacer -->
-  <img src="https://github.com/user-attachments/assets/53ced0f7-ca7e-4860-bc89-b8e397ab9288" width="220" />
-</p>
 
 ## 📄 License
 
