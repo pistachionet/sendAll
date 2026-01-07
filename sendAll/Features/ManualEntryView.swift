@@ -37,10 +37,13 @@ struct ManualEntryView: View {
                     .disabled(phoneNumber.trimmingCharacters(in: .whitespaces).isEmpty)
                 }
             }
-            .onAppear {
+        .onAppear {
+            DispatchQueue.main.asyncAfter(deadline: .now() + 0.6) {
                 isFocused = true
             }
         }
+        }
+        .tint(Color.liquidBlue)
     }
     
     private func addRecipient() {

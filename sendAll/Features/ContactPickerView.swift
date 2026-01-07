@@ -112,6 +112,7 @@ struct ContactPickerView: View {
                 }
             }
         }
+        .tint(Color.liquidBlue)
         .onAppear {
             contactService.checkPermission()
             if contactService.authorizationStatus == .authorized && contactService.contacts.isEmpty {
